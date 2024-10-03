@@ -1,0 +1,88 @@
+.box{
+    background-color:#F7F7F7;
+    width:660px;
+    height:600px;
+    padding:10px;
+    border:0px;
+    margin:0;
+}
+.boy{
+    position:absolute;
+    top:210px;;
+    left:482px;
+}
+
+
+.blue{
+    position:absolute;
+    top:210px;
+    left:290px;
+}
+.drone1{
+    position:absolute;
+    top:220px;
+    left:270px;
+}
+.lett{
+    position:absolute;
+    top:80px;
+    left:580px;
+    font-family:Calibri;
+    color:#0902B6;
+    font-size:30px;
+    letter-spacing:5px;
+}
+.lett2{
+    position:absolute;
+    top:120px;
+    left:460px;
+    font-family:Arial Black;
+    color:#0902B6;
+    font-size:30px;
+    letter-spacing:2px;
+}
+.lett3{
+    position:absolute;
+    top:160px;
+    left:450px;
+    font-family:Arial;
+    color:#0902B6;
+    font-size:12px;
+    letter-spacing:1px;
+}
+.rect{
+    position:absolute;
+    top:500px;
+    left:535px;
+    height:33px;
+    width:210px;
+    background-color:#0902B6;
+    border-left:2px solid white;
+    border-right:2px solid white;
+    border-top:2px solid white;
+    border-bottom:2px solid white;
+    color:white;
+    text-align:center;
+    font-size:22px;
+    font-family:Arial;
+    
+}
+.lett4{
+    position:absolute;
+    top:550px;
+    left:570px;
+    font-family:Arial;
+    color:white;
+    font-size:15px;
+    letter-spacing:1px;
+}
+.drone2{
+    position:absolute;
+    top:30px;
+    left:790px;
+}
+.sym{
+    position:absolute;
+    top:30px;
+    left:300px;
+}
